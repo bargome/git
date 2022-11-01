@@ -1,5 +1,5 @@
 public class Main {
-    private static final double EPSILON = 0.0000000001;
+    private static final double EPSILON = 0.000000001;
     public static double mySin(double x){
         int n = 1;
         double pow = x, factorial = 1, result = x, compute = 1, sqX = x*x;
